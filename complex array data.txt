@@ -1,0 +1,8 @@
+let users = [
+    {id: 1001, name:"Alex", phone: 9938484, 
+        address: {state:"KA",city:"BLR", pin:560001, geo:{long:"88.99", lat:"01.04"}}},
+    {id: 2001, name:"Brad", phone:889823, 
+        address: {state:"MH",city:"MBI", pin:760001, geo:{long:"90.19", lat:"05.34"}}},
+    {id: 2002, name:"Charles", phone:9900808, 
+        address: {state:"KA",city:"MYS", pin:560021, geo:{long:"80.19", lat:"01.34"}}},
+];
